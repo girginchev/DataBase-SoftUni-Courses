@@ -2,13 +2,13 @@
 
 
 The course includes working with MSSQL Server, T-SQL:
-- creating tables and relations between them;
-- queries and nested queries;
-- built-in functions;
-- user-defined functions;
-- stored procedures;
-- transactions;
-- triggers;
+- creating tables and relations between them
+- queries and nested queries
+- built-in functions
+- user-defined functions
+- stored procedures
+- transactions
+- triggers
 
 ## Exercises
 - <a href="https://github.com/girginchev/DataBase-SoftUni-Courses/tree/master/Database-Basics-MSSQL/Exercises/Data-Definition-And-Datatypes" > Data Definition And Datatypes </a> 
