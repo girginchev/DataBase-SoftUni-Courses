@@ -1,4 +1,4 @@
-# <p align="left">Databases Basics - MS SQL Server<a href="https://softuni.bg/trainings/1741/databases-advanced-entity-framework-october-2017"><img src="https://github.com/girginchev/SoftUni-Courses/blob/master/ProgrammingBasics/Exam_20170319/Bills/bin/Debug/softUniLogo.png" alt="Softuni logo" width="200" align="right"></a><p>
+# <p align="left">Databases Advanced - EntityFrameworkCore<a href="https://softuni.bg/trainings/1741/databases-advanced-entity-framework-october-2017"><img src="https://github.com/girginchev/SoftUni-Courses/blob/master/ProgrammingBasics/Exam_20170319/Bills/bin/Debug/softUniLogo.png" alt="Softuni logo" width="200" align="right"></a><p>
 
 Containing the tasks from Softuni's course DB Advanced:
 - working with ORM EF Core
