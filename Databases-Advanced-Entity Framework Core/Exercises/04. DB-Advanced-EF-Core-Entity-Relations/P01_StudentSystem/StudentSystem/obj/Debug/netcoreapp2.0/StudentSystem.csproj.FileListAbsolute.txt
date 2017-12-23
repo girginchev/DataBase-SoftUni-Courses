@@ -1,0 +1,13 @@
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.AssemblyInfo.cs
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.deps.json
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.runtimeconfig.json
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.runtimeconfig.dev.json
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.pdb
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P01_StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.pdb

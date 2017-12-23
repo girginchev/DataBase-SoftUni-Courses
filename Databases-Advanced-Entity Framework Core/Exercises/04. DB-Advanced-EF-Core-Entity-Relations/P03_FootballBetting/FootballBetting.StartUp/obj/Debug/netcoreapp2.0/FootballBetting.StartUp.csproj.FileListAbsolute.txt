@@ -1,0 +1,13 @@
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\obj\Debug\netcoreapp2.0\FootballBetting.StartUp.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\obj\Debug\netcoreapp2.0\FootballBetting.StartUp.AssemblyInfoInputs.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\obj\Debug\netcoreapp2.0\FootballBetting.StartUp.AssemblyInfo.cs
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\bin\Debug\netcoreapp2.0\FootballBetting.StartUp.deps.json
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\bin\Debug\netcoreapp2.0\FootballBetting.StartUp.runtimeconfig.json
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\bin\Debug\netcoreapp2.0\FootballBetting.StartUp.runtimeconfig.dev.json
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\bin\Debug\netcoreapp2.0\FootballBetting.StartUp.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\bin\Debug\netcoreapp2.0\FootballBetting.StartUp.pdb
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\bin\Debug\netcoreapp2.0\P03_FootballBetting.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\bin\Debug\netcoreapp2.0\P03_FootballBetting.pdb
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\obj\Debug\netcoreapp2.0\FootballBetting.StartUp.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\obj\Debug\netcoreapp2.0\FootballBetting.StartUp.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\P03_FootballBetting\FootballBetting.StartUp\obj\Debug\netcoreapp2.0\FootballBetting.StartUp.pdb

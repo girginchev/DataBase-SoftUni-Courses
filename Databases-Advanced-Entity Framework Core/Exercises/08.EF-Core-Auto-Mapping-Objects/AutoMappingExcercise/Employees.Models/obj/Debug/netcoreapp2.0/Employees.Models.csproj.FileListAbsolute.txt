@@ -1,0 +1,18 @@
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.deps.json
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfoInputs.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfo.cs
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.deps.json
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfoInputs.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfo.cs
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.pdb

@@ -1,0 +1,13 @@
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.DataProcessor.deps.json
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.DataProcessor.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.DataProcessor.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.Data.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.Models.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.Data.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.Models.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.AssemblyInfo.cs
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.pdb

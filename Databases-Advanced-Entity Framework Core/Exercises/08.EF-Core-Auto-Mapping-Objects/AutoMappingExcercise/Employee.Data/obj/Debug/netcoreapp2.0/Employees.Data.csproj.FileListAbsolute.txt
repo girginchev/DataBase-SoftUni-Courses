@@ -1,0 +1,22 @@
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Data.deps.json
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfoInputs.cache
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfo.cs
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\viktor\Documents\Visual Studio 2017\Projects\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Data.deps.json
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfoInputs.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfo.cs
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\AutoMappingExcercise\Employee.Data\obj\Debug\netcoreapp2.0\Employees.Data.pdb

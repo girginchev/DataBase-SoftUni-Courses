@@ -1,0 +1,17 @@
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.App.deps.json
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.App.runtimeconfig.json
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.App.runtimeconfig.dev.json
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.App.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.App.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.Data.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.DataProcessor.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.Models.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.DataProcessor.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.Data.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.0\FastFood.Models.pdb
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.0\FastFood.App.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.0\FastFood.App.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.0\FastFood.App.AssemblyInfoInputs.cache
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.0\FastFood.App.AssemblyInfo.cs
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.0\FastFood.App.dll
+C:\Users\viktor\Desktop\SQL Homeworx\SQL Advance EntityFrameworkCore\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.0\FastFood.App.pdb

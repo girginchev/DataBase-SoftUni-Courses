@@ -1,0 +1,156 @@
+[
+  {
+    "FirstName": "Anna",
+    "LastName": "Clark",
+    "SoldProducts": [
+      {
+        "ProductName": "AIR",
+        "ProductPrice": 581.69,
+        "BuyerLastName": "Baker"
+      },
+      {
+        "ProductName": "Irbesartan and Hydrochlorothiazide",
+        "ProductPrice": 308.30,
+        "BuyerFirstName": "Benjamin",
+        "BuyerLastName": "Henry"
+      },
+      {
+        "ProductName": "Childrens Allegra Allergy",
+        "ProductPrice": 650.97,
+        "BuyerFirstName": "Nicole",
+        "BuyerLastName": "Martinez"
+      }
+    ]
+  },
+  {
+    "FirstName": "Amanda",
+    "LastName": "Frazier",
+    "SoldProducts": [
+      {
+        "ProductName": "MOIST MOISTURE SKIN TONER",
+        "ProductPrice": 152.43,
+        "BuyerFirstName": "Betty",
+        "BuyerLastName": "Ward"
+      },
+      {
+        "ProductName": "Enalapril Maleate",
+        "ProductPrice": 72.71,
+        "BuyerFirstName": "Patricia",
+        "BuyerLastName": "Cooper"
+      }
+    ]
+  },
+  {
+    "FirstName": "Benjamin",
+    "LastName": "Henry",
+    "SoldProducts": []
+  },
+  {
+    "FirstName": "Jean",
+    "LastName": "Henry",
+    "SoldProducts": [
+      {
+        "ProductName": "IOPE SUPER VITAL",
+        "ProductPrice": 824.68,
+        "BuyerLastName": "Stewart"
+      }
+    ]
+  },
+  {
+    "FirstName": "Joshua",
+    "LastName": "Murray",
+    "SoldProducts": [
+      {
+        "ProductName": "Pollens - Trees, Birch Mix",
+        "ProductPrice": 1153.54,
+        "BuyerFirstName": "Betty",
+        "BuyerLastName": "Ward"
+      },
+      {
+        "ProductName": "Alcohol Free Antiseptic",
+        "ProductPrice": 1486.07,
+        "BuyerFirstName": "Doris",
+        "BuyerLastName": "Cook"
+      },
+      {
+        "ProductName": "Amlodipine Besylate",
+        "ProductPrice": 122.57,
+        "BuyerFirstName": "Nicole",
+        "BuyerLastName": "Martinez"
+      },
+      {
+        "ProductName": "Glipizide and Metformin Hydrochloride",
+        "ProductPrice": 953.60,
+        "BuyerFirstName": "Brenda",
+        "BuyerLastName": "Howell"
+      },
+      {
+        "ProductName": "ERYTHROMYCIN Base Filmtab",
+        "ProductPrice": 117.84,
+        "BuyerLastName": "Baker"
+      },
+      {
+        "ProductName": "Alternaria alternata",
+        "ProductPrice": 61.24,
+        "BuyerFirstName": "Fred",
+        "BuyerLastName": "Barnes"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jennifer",
+    "LastName": "Riley",
+    "SoldProducts": [
+      {
+        "ProductName": "Naproxen",
+        "ProductPrice": 807.22,
+        "BuyerLastName": "Bennett"
+      },
+      {
+        "ProductName": "Carbon Dioxide Oxygen Mixture",
+        "ProductPrice": 95.49,
+        "BuyerFirstName": "Benjamin",
+        "BuyerLastName": "Henry"
+      },
+      {
+        "ProductName": "Gilotrif",
+        "ProductPrice": 1454.77,
+        "BuyerLastName": "Cunningham"
+      }
+    ]
+  },
+  {
+    "FirstName": "Eugene",
+    "LastName": "Stewart",
+    "SoldProducts": [
+      {
+        "ProductName": "Warfarin Sodium",
+        "ProductPrice": 770.05,
+        "BuyerLastName": "Mitchell"
+      }
+    ]
+  },
+  {
+    "FirstName": "Betty",
+    "LastName": "Ward",
+    "SoldProducts": [
+      {
+        "ProductName": "IOPE RETIGEN MOISTURE TWIN CAKE NO.21",
+        "ProductPrice": 1257.71,
+        "BuyerFirstName": "Benjamin",
+        "BuyerLastName": "Henry"
+      },
+      {
+        "ProductName": "Pioglitazone",
+        "ProductPrice": 306.56,
+        "BuyerLastName": "Schmidt"
+      },
+      {
+        "ProductName": "Glipizide",
+        "ProductPrice": 621.78,
+        "BuyerFirstName": "Nicole",
+        "BuyerLastName": "Harris"
+      }
+    ]
+  }
+]

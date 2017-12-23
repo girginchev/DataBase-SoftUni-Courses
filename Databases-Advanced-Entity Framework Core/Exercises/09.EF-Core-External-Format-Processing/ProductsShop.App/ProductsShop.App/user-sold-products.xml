@@ -1,0 +1,1163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user first-name="Fred" last-name="Barnes">
+    <sold-products>
+      <product>
+        <name>Strattera</name>
+        <price>658.54</price>
+      </product>
+      <product>
+        <name>Flumazenil</name>
+        <price>1151.37</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Fred" last-name="Barnes">
+    <sold-products>
+      <product>
+        <name>Strattera</name>
+        <price>658.54</price>
+      </product>
+      <product>
+        <name>Flumazenil</name>
+        <price>1151.37</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Anna" last-name="Clark">
+    <sold-products>
+      <product>
+        <name>NEO-POLY-BAC HYDRO</name>
+        <price>967.32</price>
+      </product>
+    </sold-products>
+  </user>
+  <user last-name="Cunningham">
+    <sold-products>
+      <product>
+        <name>Fair Foundation SPF 15</name>
+        <price>1394.24</price>
+      </product>
+      <product>
+        <name>Foaming Hand Sanitizer</name>
+        <price>624.72</price>
+      </product>
+      <product>
+        <name>Lamotrigine Extended Release</name>
+        <price>245.63</price>
+      </product>
+    </sold-products>
+  </user>
+  <user last-name="Cunningham">
+    <sold-products>
+      <product>
+        <name>Fair Foundation SPF 15</name>
+        <price>1394.24</price>
+      </product>
+      <product>
+        <name>Foaming Hand Sanitizer</name>
+        <price>624.72</price>
+      </product>
+      <product>
+        <name>Lamotrigine Extended Release</name>
+        <price>245.63</price>
+      </product>
+    </sold-products>
+  </user>
+  <user last-name="Cunningham">
+    <sold-products>
+      <product>
+        <name>Fair Foundation SPF 15</name>
+        <price>1394.24</price>
+      </product>
+      <product>
+        <name>Foaming Hand Sanitizer</name>
+        <price>624.72</price>
+      </product>
+      <product>
+        <name>Lamotrigine Extended Release</name>
+        <price>245.63</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Sarah" last-name="Day">
+    <sold-products>
+      <product>
+        <name>Azithromycin</name>
+        <price>813.87</price>
+      </product>
+      <product>
+        <name>Spironolactone</name>
+        <price>933.69</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Sarah" last-name="Day">
+    <sold-products>
+      <product>
+        <name>Azithromycin</name>
+        <price>813.87</price>
+      </product>
+      <product>
+        <name>Spironolactone</name>
+        <price>933.69</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Clarence" last-name="Fowler">
+    <sold-products>
+      <product>
+        <name>Ondansetron</name>
+        <price>1249.76</price>
+      </product>
+      <product>
+        <name>Peter Island Continous sunscreen kids</name>
+        <price>471.30</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Clarence" last-name="Fowler">
+    <sold-products>
+      <product>
+        <name>Ondansetron</name>
+        <price>1249.76</price>
+      </product>
+      <product>
+        <name>Peter Island Continous sunscreen kids</name>
+        <price>471.30</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Amanda" last-name="Frazier">
+    <sold-products>
+      <product>
+        <name>Care One Hemorrhoidal</name>
+        <price>932.18</price>
+      </product>
+      <product>
+        <name>Aspen</name>
+        <price>1046.46</price>
+      </product>
+      <product>
+        <name>Aspergillus repens</name>
+        <price>1231.42</price>
+      </product>
+      <product>
+        <name>CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010</name>
+        <price>77.23</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Amanda" last-name="Frazier">
+    <sold-products>
+      <product>
+        <name>Care One Hemorrhoidal</name>
+        <price>932.18</price>
+      </product>
+      <product>
+        <name>Aspen</name>
+        <price>1046.46</price>
+      </product>
+      <product>
+        <name>Aspergillus repens</name>
+        <price>1231.42</price>
+      </product>
+      <product>
+        <name>CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010</name>
+        <price>77.23</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Amanda" last-name="Frazier">
+    <sold-products>
+      <product>
+        <name>Care One Hemorrhoidal</name>
+        <price>932.18</price>
+      </product>
+      <product>
+        <name>Aspen</name>
+        <price>1046.46</price>
+      </product>
+      <product>
+        <name>Aspergillus repens</name>
+        <price>1231.42</price>
+      </product>
+      <product>
+        <name>CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010</name>
+        <price>77.23</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Amanda" last-name="Frazier">
+    <sold-products>
+      <product>
+        <name>Care One Hemorrhoidal</name>
+        <price>932.18</price>
+      </product>
+      <product>
+        <name>Aspen</name>
+        <price>1046.46</price>
+      </product>
+      <product>
+        <name>Aspergillus repens</name>
+        <price>1231.42</price>
+      </product>
+      <product>
+        <name>CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010</name>
+        <price>77.23</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christine" last-name="Gomez">
+    <sold-products>
+      <product>
+        <name>Effervescent Cold Relief</name>
+        <price>1436.07</price>
+      </product>
+      <product>
+        <name>TYLENOL COLD MULTI-SYMPTOM DAYTIME</name>
+        <price>1010.81</price>
+      </product>
+      <product>
+        <name>Naproxen</name>
+        <price>807.22</price>
+      </product>
+      <product>
+        <name>EMEND</name>
+        <price>1365.51</price>
+      </product>
+      <product>
+        <name>Isosorbide Mononitrate</name>
+        <price>789.91</price>
+      </product>
+      <product>
+        <name>LANEIGE MYSTIC VEIL FOUNDATION</name>
+        <price>20.86</price>
+      </product>
+      <product>
+        <name>ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20</name>
+        <price>1097.60</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christine" last-name="Gomez">
+    <sold-products>
+      <product>
+        <name>Effervescent Cold Relief</name>
+        <price>1436.07</price>
+      </product>
+      <product>
+        <name>TYLENOL COLD MULTI-SYMPTOM DAYTIME</name>
+        <price>1010.81</price>
+      </product>
+      <product>
+        <name>Naproxen</name>
+        <price>807.22</price>
+      </product>
+      <product>
+        <name>EMEND</name>
+        <price>1365.51</price>
+      </product>
+      <product>
+        <name>Isosorbide Mononitrate</name>
+        <price>789.91</price>
+      </product>
+      <product>
+        <name>LANEIGE MYSTIC VEIL FOUNDATION</name>
+        <price>20.86</price>
+      </product>
+      <product>
+        <name>ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20</name>
+        <price>1097.60</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christine" last-name="Gomez">
+    <sold-products>
+      <product>
+        <name>Effervescent Cold Relief</name>
+        <price>1436.07</price>
+      </product>
+      <product>
+        <name>TYLENOL COLD MULTI-SYMPTOM DAYTIME</name>
+        <price>1010.81</price>
+      </product>
+      <product>
+        <name>Naproxen</name>
+        <price>807.22</price>
+      </product>
+      <product>
+        <name>EMEND</name>
+        <price>1365.51</price>
+      </product>
+      <product>
+        <name>Isosorbide Mononitrate</name>
+        <price>789.91</price>
+      </product>
+      <product>
+        <name>LANEIGE MYSTIC VEIL FOUNDATION</name>
+        <price>20.86</price>
+      </product>
+      <product>
+        <name>ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20</name>
+        <price>1097.60</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christine" last-name="Gomez">
+    <sold-products>
+      <product>
+        <name>Effervescent Cold Relief</name>
+        <price>1436.07</price>
+      </product>
+      <product>
+        <name>TYLENOL COLD MULTI-SYMPTOM DAYTIME</name>
+        <price>1010.81</price>
+      </product>
+      <product>
+        <name>Naproxen</name>
+        <price>807.22</price>
+      </product>
+      <product>
+        <name>EMEND</name>
+        <price>1365.51</price>
+      </product>
+      <product>
+        <name>Isosorbide Mononitrate</name>
+        <price>789.91</price>
+      </product>
+      <product>
+        <name>LANEIGE MYSTIC VEIL FOUNDATION</name>
+        <price>20.86</price>
+      </product>
+      <product>
+        <name>ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20</name>
+        <price>1097.60</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christine" last-name="Gomez">
+    <sold-products>
+      <product>
+        <name>Effervescent Cold Relief</name>
+        <price>1436.07</price>
+      </product>
+      <product>
+        <name>TYLENOL COLD MULTI-SYMPTOM DAYTIME</name>
+        <price>1010.81</price>
+      </product>
+      <product>
+        <name>Naproxen</name>
+        <price>807.22</price>
+      </product>
+      <product>
+        <name>EMEND</name>
+        <price>1365.51</price>
+      </product>
+      <product>
+        <name>Isosorbide Mononitrate</name>
+        <price>789.91</price>
+      </product>
+      <product>
+        <name>LANEIGE MYSTIC VEIL FOUNDATION</name>
+        <price>20.86</price>
+      </product>
+      <product>
+        <name>ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20</name>
+        <price>1097.60</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christine" last-name="Gomez">
+    <sold-products>
+      <product>
+        <name>Effervescent Cold Relief</name>
+        <price>1436.07</price>
+      </product>
+      <product>
+        <name>TYLENOL COLD MULTI-SYMPTOM DAYTIME</name>
+        <price>1010.81</price>
+      </product>
+      <product>
+        <name>Naproxen</name>
+        <price>807.22</price>
+      </product>
+      <product>
+        <name>EMEND</name>
+        <price>1365.51</price>
+      </product>
+      <product>
+        <name>Isosorbide Mononitrate</name>
+        <price>789.91</price>
+      </product>
+      <product>
+        <name>LANEIGE MYSTIC VEIL FOUNDATION</name>
+        <price>20.86</price>
+      </product>
+      <product>
+        <name>ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20</name>
+        <price>1097.60</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christine" last-name="Gomez">
+    <sold-products>
+      <product>
+        <name>Effervescent Cold Relief</name>
+        <price>1436.07</price>
+      </product>
+      <product>
+        <name>TYLENOL COLD MULTI-SYMPTOM DAYTIME</name>
+        <price>1010.81</price>
+      </product>
+      <product>
+        <name>Naproxen</name>
+        <price>807.22</price>
+      </product>
+      <product>
+        <name>EMEND</name>
+        <price>1365.51</price>
+      </product>
+      <product>
+        <name>Isosorbide Mononitrate</name>
+        <price>789.91</price>
+      </product>
+      <product>
+        <name>LANEIGE MYSTIC VEIL FOUNDATION</name>
+        <price>20.86</price>
+      </product>
+      <product>
+        <name>ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20</name>
+        <price>1097.60</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Diana" last-name="Harvey">
+    <sold-products>
+      <product>
+        <name>RESCRIPTOR</name>
+        <price>850.52</price>
+      </product>
+      <product>
+        <name>Alcohol Free Antiseptic</name>
+        <price>1486.07</price>
+      </product>
+      <product>
+        <name>Ringers</name>
+        <price>1054.37</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Diana" last-name="Harvey">
+    <sold-products>
+      <product>
+        <name>RESCRIPTOR</name>
+        <price>850.52</price>
+      </product>
+      <product>
+        <name>Alcohol Free Antiseptic</name>
+        <price>1486.07</price>
+      </product>
+      <product>
+        <name>Ringers</name>
+        <price>1054.37</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Diana" last-name="Harvey">
+    <sold-products>
+      <product>
+        <name>RESCRIPTOR</name>
+        <price>850.52</price>
+      </product>
+      <product>
+        <name>Alcohol Free Antiseptic</name>
+        <price>1486.07</price>
+      </product>
+      <product>
+        <name>Ringers</name>
+        <price>1054.37</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jean" last-name="Henry">
+    <sold-products>
+      <product>
+        <name>Glycopyrrolate</name>
+        <price>1471.43</price>
+      </product>
+      <product>
+        <name>Baza Antifungal</name>
+        <price>1162.34</price>
+      </product>
+      <product>
+        <name>Gehwol med Lipidro</name>
+        <price>421.24</price>
+      </product>
+      <product>
+        <name>Clarins Paris Skin Illusion - 114 cappuccino</name>
+        <price>811.42</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jean" last-name="Henry">
+    <sold-products>
+      <product>
+        <name>Glycopyrrolate</name>
+        <price>1471.43</price>
+      </product>
+      <product>
+        <name>Baza Antifungal</name>
+        <price>1162.34</price>
+      </product>
+      <product>
+        <name>Gehwol med Lipidro</name>
+        <price>421.24</price>
+      </product>
+      <product>
+        <name>Clarins Paris Skin Illusion - 114 cappuccino</name>
+        <price>811.42</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jean" last-name="Henry">
+    <sold-products>
+      <product>
+        <name>Glycopyrrolate</name>
+        <price>1471.43</price>
+      </product>
+      <product>
+        <name>Baza Antifungal</name>
+        <price>1162.34</price>
+      </product>
+      <product>
+        <name>Gehwol med Lipidro</name>
+        <price>421.24</price>
+      </product>
+      <product>
+        <name>Clarins Paris Skin Illusion - 114 cappuccino</name>
+        <price>811.42</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jean" last-name="Henry">
+    <sold-products>
+      <product>
+        <name>Glycopyrrolate</name>
+        <price>1471.43</price>
+      </product>
+      <product>
+        <name>Baza Antifungal</name>
+        <price>1162.34</price>
+      </product>
+      <product>
+        <name>Gehwol med Lipidro</name>
+        <price>421.24</price>
+      </product>
+      <product>
+        <name>Clarins Paris Skin Illusion - 114 cappuccino</name>
+        <price>811.42</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Patrick" last-name="King">
+    <sold-products>
+      <product>
+        <name>Topiramate</name>
+        <price>578.77</price>
+      </product>
+      <product>
+        <name>Smooth texture Orange flavor</name>
+        <price>976.65</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Patrick" last-name="King">
+    <sold-products>
+      <product>
+        <name>Topiramate</name>
+        <price>578.77</price>
+      </product>
+      <product>
+        <name>Smooth texture Orange flavor</name>
+        <price>976.65</price>
+      </product>
+    </sold-products>
+  </user>
+  <user last-name="Lawson">
+    <sold-products>
+      <product>
+        <name>Etodolac</name>
+        <price>1443.13</price>
+      </product>
+      <product>
+        <name>CEDAX</name>
+        <price>342.86</price>
+      </product>
+      <product>
+        <name>Almond</name>
+        <price>367.32</price>
+      </product>
+    </sold-products>
+  </user>
+  <user last-name="Lawson">
+    <sold-products>
+      <product>
+        <name>Etodolac</name>
+        <price>1443.13</price>
+      </product>
+      <product>
+        <name>CEDAX</name>
+        <price>342.86</price>
+      </product>
+      <product>
+        <name>Almond</name>
+        <price>367.32</price>
+      </product>
+    </sold-products>
+  </user>
+  <user last-name="Lawson">
+    <sold-products>
+      <product>
+        <name>Etodolac</name>
+        <price>1443.13</price>
+      </product>
+      <product>
+        <name>CEDAX</name>
+        <price>342.86</price>
+      </product>
+      <product>
+        <name>Almond</name>
+        <price>367.32</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Chris" last-name="Mitchell">
+    <sold-products>
+      <product>
+        <name>Butalbital, Aspirin and Caffeine</name>
+        <price>1010.98</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Joshua" last-name="Murray">
+    <sold-products>
+      <product>
+        <name>Acid Reducer</name>
+        <price>1443.51</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Anna" last-name="Parker">
+    <sold-products>
+      <product>
+        <name>CHAMOMILLA</name>
+        <price>37.97</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Billy" last-name="Parker">
+    <sold-products>
+      <product>
+        <name>AIR</name>
+        <price>581.69</price>
+      </product>
+      <product>
+        <name>Extra Strength Pain Reliever PM</name>
+        <price>542.72</price>
+      </product>
+      <product>
+        <name>GOONG SECRET CALMING BATH</name>
+        <price>742.47</price>
+      </product>
+      <product>
+        <name>SNORING HP</name>
+        <price>53.59</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Billy" last-name="Parker">
+    <sold-products>
+      <product>
+        <name>AIR</name>
+        <price>581.69</price>
+      </product>
+      <product>
+        <name>Extra Strength Pain Reliever PM</name>
+        <price>542.72</price>
+      </product>
+      <product>
+        <name>GOONG SECRET CALMING BATH</name>
+        <price>742.47</price>
+      </product>
+      <product>
+        <name>SNORING HP</name>
+        <price>53.59</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Billy" last-name="Parker">
+    <sold-products>
+      <product>
+        <name>AIR</name>
+        <price>581.69</price>
+      </product>
+      <product>
+        <name>Extra Strength Pain Reliever PM</name>
+        <price>542.72</price>
+      </product>
+      <product>
+        <name>GOONG SECRET CALMING BATH</name>
+        <price>742.47</price>
+      </product>
+      <product>
+        <name>SNORING HP</name>
+        <price>53.59</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Billy" last-name="Parker">
+    <sold-products>
+      <product>
+        <name>AIR</name>
+        <price>581.69</price>
+      </product>
+      <product>
+        <name>Extra Strength Pain Reliever PM</name>
+        <price>542.72</price>
+      </product>
+      <product>
+        <name>GOONG SECRET CALMING BATH</name>
+        <price>742.47</price>
+      </product>
+      <product>
+        <name>SNORING HP</name>
+        <price>53.59</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Emily" last-name="Parker">
+    <sold-products>
+      <product>
+        <name>ENALAPRIL MALEATE</name>
+        <price>210.42</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christina" last-name="Patterson">
+    <sold-products>
+      <product>
+        <name>Buprenorphine hydrochloride</name>
+        <price>391.05</price>
+      </product>
+      <product>
+        <name>Warfarin Sodium</name>
+        <price>1379.79</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Christina" last-name="Patterson">
+    <sold-products>
+      <product>
+        <name>Buprenorphine hydrochloride</name>
+        <price>391.05</price>
+      </product>
+      <product>
+        <name>Warfarin Sodium</name>
+        <price>1379.79</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Arthur" last-name="Reynolds">
+    <sold-products>
+      <product>
+        <name>Gemcitabine</name>
+        <price>594.79</price>
+      </product>
+      <product>
+        <name>Yellow Jacket hymenoptera venom Venomil Diagnostic</name>
+        <price>23.58</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Arthur" last-name="Reynolds">
+    <sold-products>
+      <product>
+        <name>Gemcitabine</name>
+        <price>594.79</price>
+      </product>
+      <product>
+        <name>Yellow Jacket hymenoptera venom Venomil Diagnostic</name>
+        <price>23.58</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jennifer" last-name="Riley">
+    <sold-products>
+      <product>
+        <name>Leg Cramp Relief</name>
+        <price>1345.69</price>
+      </product>
+      <product>
+        <name>PRIMAXIN</name>
+        <price>686.66</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jennifer" last-name="Riley">
+    <sold-products>
+      <product>
+        <name>Leg Cramp Relief</name>
+        <price>1345.69</price>
+      </product>
+      <product>
+        <name>PRIMAXIN</name>
+        <price>686.66</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jonathan" last-name="Rodriguez">
+    <sold-products>
+      <product>
+        <name>Buprenorphine hydrochloride and naloxone hydrochloride dihydrate</name>
+        <price>293.33</price>
+      </product>
+    </sold-products>
+  </user>
+  <user last-name="Schmidt">
+    <sold-products>
+      <product>
+        <name>Enalapril Maleate</name>
+        <price>72.71</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Thomas" last-name="Snyder">
+    <sold-products>
+      <product>
+        <name>Cefadroxil</name>
+        <price>1302.20</price>
+      </product>
+      <product>
+        <name>ESIKA</name>
+        <price>879.37</price>
+      </product>
+      <product>
+        <name>PCA SKIN ACNE</name>
+        <price>1356.22</price>
+      </product>
+      <product>
+        <name>Ranitidine</name>
+        <price>926.64</price>
+      </product>
+      <product>
+        <name>No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory</name>
+        <price>616.19</price>
+      </product>
+      <product>
+        <name>Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride</name>
+        <price>1028.27</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Thomas" last-name="Snyder">
+    <sold-products>
+      <product>
+        <name>Cefadroxil</name>
+        <price>1302.20</price>
+      </product>
+      <product>
+        <name>ESIKA</name>
+        <price>879.37</price>
+      </product>
+      <product>
+        <name>PCA SKIN ACNE</name>
+        <price>1356.22</price>
+      </product>
+      <product>
+        <name>Ranitidine</name>
+        <price>926.64</price>
+      </product>
+      <product>
+        <name>No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory</name>
+        <price>616.19</price>
+      </product>
+      <product>
+        <name>Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride</name>
+        <price>1028.27</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Thomas" last-name="Snyder">
+    <sold-products>
+      <product>
+        <name>Cefadroxil</name>
+        <price>1302.20</price>
+      </product>
+      <product>
+        <name>ESIKA</name>
+        <price>879.37</price>
+      </product>
+      <product>
+        <name>PCA SKIN ACNE</name>
+        <price>1356.22</price>
+      </product>
+      <product>
+        <name>Ranitidine</name>
+        <price>926.64</price>
+      </product>
+      <product>
+        <name>No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory</name>
+        <price>616.19</price>
+      </product>
+      <product>
+        <name>Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride</name>
+        <price>1028.27</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Thomas" last-name="Snyder">
+    <sold-products>
+      <product>
+        <name>Cefadroxil</name>
+        <price>1302.20</price>
+      </product>
+      <product>
+        <name>ESIKA</name>
+        <price>879.37</price>
+      </product>
+      <product>
+        <name>PCA SKIN ACNE</name>
+        <price>1356.22</price>
+      </product>
+      <product>
+        <name>Ranitidine</name>
+        <price>926.64</price>
+      </product>
+      <product>
+        <name>No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory</name>
+        <price>616.19</price>
+      </product>
+      <product>
+        <name>Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride</name>
+        <price>1028.27</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Thomas" last-name="Snyder">
+    <sold-products>
+      <product>
+        <name>Cefadroxil</name>
+        <price>1302.20</price>
+      </product>
+      <product>
+        <name>ESIKA</name>
+        <price>879.37</price>
+      </product>
+      <product>
+        <name>PCA SKIN ACNE</name>
+        <price>1356.22</price>
+      </product>
+      <product>
+        <name>Ranitidine</name>
+        <price>926.64</price>
+      </product>
+      <product>
+        <name>No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory</name>
+        <price>616.19</price>
+      </product>
+      <product>
+        <name>Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride</name>
+        <price>1028.27</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Thomas" last-name="Snyder">
+    <sold-products>
+      <product>
+        <name>Cefadroxil</name>
+        <price>1302.20</price>
+      </product>
+      <product>
+        <name>ESIKA</name>
+        <price>879.37</price>
+      </product>
+      <product>
+        <name>PCA SKIN ACNE</name>
+        <price>1356.22</price>
+      </product>
+      <product>
+        <name>Ranitidine</name>
+        <price>926.64</price>
+      </product>
+      <product>
+        <name>No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory</name>
+        <price>616.19</price>
+      </product>
+      <product>
+        <name>Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride</name>
+        <price>1028.27</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Ann" last-name="Stevens">
+    <sold-products>
+      <product>
+        <name>DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER</name>
+        <price>555.12</price>
+      </product>
+    </sold-products>
+  </user>
+  <user last-name="Stewart">
+    <sold-products>
+      <product>
+        <name>equaline</name>
+        <price>520.45</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Eugene" last-name="Stewart">
+    <sold-products>
+      <product>
+        <name>Pioglitazone</name>
+        <price>306.56</price>
+      </product>
+      <product>
+        <name>ANXIETY/STRESS RELIEF</name>
+        <price>324.66</price>
+      </product>
+      <product>
+        <name>allergy eye</name>
+        <price>426.91</price>
+      </product>
+      <product>
+        <name>Amlodipine Besylate</name>
+        <price>122.57</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Eugene" last-name="Stewart">
+    <sold-products>
+      <product>
+        <name>Pioglitazone</name>
+        <price>306.56</price>
+      </product>
+      <product>
+        <name>ANXIETY/STRESS RELIEF</name>
+        <price>324.66</price>
+      </product>
+      <product>
+        <name>allergy eye</name>
+        <price>426.91</price>
+      </product>
+      <product>
+        <name>Amlodipine Besylate</name>
+        <price>122.57</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Eugene" last-name="Stewart">
+    <sold-products>
+      <product>
+        <name>Pioglitazone</name>
+        <price>306.56</price>
+      </product>
+      <product>
+        <name>ANXIETY/STRESS RELIEF</name>
+        <price>324.66</price>
+      </product>
+      <product>
+        <name>allergy eye</name>
+        <price>426.91</price>
+      </product>
+      <product>
+        <name>Amlodipine Besylate</name>
+        <price>122.57</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Eugene" last-name="Stewart">
+    <sold-products>
+      <product>
+        <name>Pioglitazone</name>
+        <price>306.56</price>
+      </product>
+      <product>
+        <name>ANXIETY/STRESS RELIEF</name>
+        <price>324.66</price>
+      </product>
+      <product>
+        <name>allergy eye</name>
+        <price>426.91</price>
+      </product>
+      <product>
+        <name>Amlodipine Besylate</name>
+        <price>122.57</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Betty" last-name="Ward">
+    <sold-products>
+      <product>
+        <name>TRAMADOL HYDROCHLORIDE</name>
+        <price>516.48</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Marie" last-name="Williamson">
+    <sold-products>
+      <product>
+        <name>AMARANTHUS PALMERI POLLEN</name>
+        <price>623.16</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jeremy" last-name="Woods">
+    <sold-products>
+      <product>
+        <name>PAMO Kill Natural</name>
+        <price>1181.06</price>
+      </product>
+      <product>
+        <name>PREMIER VALUE ALLERGY</name>
+        <price>1127.61</price>
+      </product>
+      <product>
+        <name>Wintergreen Isopropyl Alcohol</name>
+        <price>1397.57</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jeremy" last-name="Woods">
+    <sold-products>
+      <product>
+        <name>PAMO Kill Natural</name>
+        <price>1181.06</price>
+      </product>
+      <product>
+        <name>PREMIER VALUE ALLERGY</name>
+        <price>1127.61</price>
+      </product>
+      <product>
+        <name>Wintergreen Isopropyl Alcohol</name>
+        <price>1397.57</price>
+      </product>
+    </sold-products>
+  </user>
+  <user first-name="Jeremy" last-name="Woods">
+    <sold-products>
+      <product>
+        <name>PAMO Kill Natural</name>
+        <price>1181.06</price>
+      </product>
+      <product>
+        <name>PREMIER VALUE ALLERGY</name>
+        <price>1127.61</price>
+      </product>
+      <product>
+        <name>Wintergreen Isopropyl Alcohol</name>
+        <price>1397.57</price>
+      </product>
+    </sold-products>
+  </user>
+</users>
